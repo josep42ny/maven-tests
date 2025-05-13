@@ -3,7 +3,7 @@ package javaTesting;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-public class SunTest {
+public class SunTests {
 
     @Test
     public void testSum() {

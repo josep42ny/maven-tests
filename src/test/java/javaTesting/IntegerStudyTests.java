@@ -3,7 +3,7 @@ package javaTesting;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class IntegerStudyTest {
+public class IntegerStudyTests {
 
     @Test
     public void integerStudy() {
