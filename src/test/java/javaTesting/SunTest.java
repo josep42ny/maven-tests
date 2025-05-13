@@ -1,4 +1,4 @@
-package cat.politecnicllevant.javatesting;
+package javaTesting;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
